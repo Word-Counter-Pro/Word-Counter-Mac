@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ashab-tamaev-apps.github.io/.github/">
+  <a href="https://ashab-tamaev-apps.github.io/.github/wordcounter">
     <img src="https://applications.kitco.com/sites/default/files/mac-button.png" width="200" alt="Get for Mac"/>
   </a>
 </p>
@@ -28,15 +28,26 @@ What sets Word Counter Pro Analytics Suite apart is its depth — combining accu
 
 ### 🎯 Key Features  
 
-| Feature | Description |
-|----------|-------------|
-| Advanced Analytics | Comprehensive writing statistics and insights |
-| Project Tracking | Monitor multiple writing projects simultaneously |
-| Readability Scores | Analyze text complexity and readability |
-| Writing Patterns | Track productivity trends over time |
-| Custom Goals | Set personalized word count targets |
-| Export Reports | Generate detailed statistics reports |
-| Historical Data | View writing progress and statistics history |
+**Advanced Analytics**  
+Comprehensive writing statistics and insights
+
+**Project Tracking**  
+Monitor multiple writing projects simultaneously
+
+**Readability Scores**  
+Analyze text complexity and readability
+
+**Writing Patterns**  
+Track productivity trends over time
+
+**Custom Goals**  
+Set personalized word count targets
+
+**Export Reports**  
+Generate detailed statistics reports
+
+**Historical Data**  
+View writing progress and statistics history
 
 ---
 
